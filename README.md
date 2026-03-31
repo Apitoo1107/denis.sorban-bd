@@ -1,4 +1,4 @@
 # denis.sorban-bd
 Repositório de aulas de Banco de Dados
 
-Atualizações sobre a história do cliente e suas respectivas atividades (dia de última atualização 12/03)
+Lançado hoje, dia 31/03, trabalho concluido do primeiro bimestre
